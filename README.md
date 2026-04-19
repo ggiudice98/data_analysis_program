@@ -37,7 +37,7 @@ Focus: replicating and extending SQL analysis in Python, cleaning raw data, time
  
 ## SQL Concepts Covered (Weeks 1–2)
  
-**Week 1 — Foundations**
+**Week 1-2 — Foundations**
 - `SELECT`, `WHERE`, `ORDER BY`, `LIMIT`
 - `INNER JOIN`, `LEFT JOIN` with `IS NULL` anti-join pattern
 - `GROUP BY` logic and grain discipline
