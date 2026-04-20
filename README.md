@@ -21,14 +21,18 @@ Every Friday is a ★ **Capstone** — A full business scenario requiring everyt
 ---
  
 ## Databases Used
- 
-### Retail Ecommerce (SQLite)
+
+**Retail Ecommerce (SQLite)**
 Tables: `orders`, `customers`, `order_items`
 Focus: revenue KPIs, order-level vs item-level grain, customer segmentation
- 
-### Canadian Logistics (SQLite)
+
+**Canadian Logistics (SQLite)**
 Tables: `shipments`, `drivers`, `clients`, `routes`, `warehouses`, `vehicles`, `shipment_items`
 Focus: freight analytics, driver performance, on-time delivery, date-based trend analysis
+
+**Canadian Construction Operations (SQLite)**
+Tables: `projects`, `clients`, `site_managers`, `subcontractors`, `work_orders`, `inspections`
+Focus: budget variance, project status tracking, subcontractor performance, inspection pass rates, site manager workload
  
 ### Weeks 3–4 — Python / Pandas (same datasets + extensions)
 Focus: replicating and extending SQL analysis in Python, cleaning raw data, time series, visualizations
